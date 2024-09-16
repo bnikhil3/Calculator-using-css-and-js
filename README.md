@@ -1,3 +1,5 @@
-# Calculator-using-css-and-js
+# Calculator-using-HTML-CSS-and-JavaScript
 
-<img width="396" alt="Screenshot 2024-09-16 224714" src="https://github.com/user-attachments/assets/9ab78c93-0ad0-4c9e-860a-2bb46c06036c">
+## Screenshot
+
+<img width="507" alt="screenshot" src="C:\Users\YOGA\Downloads\Calculator-using-HTML-CSS-and-JavaScript-master\images\Screenshot 2024-09-16 224714.png">
